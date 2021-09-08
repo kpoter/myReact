@@ -12,5 +12,7 @@ admin.a.b = 100;
 console.log(admin);
 console.log(user);
 
+console.log(admin === user);
+
 // 한단계 더 깊이 들어갈려면 (...)spread 연산자를 다시 사용하여 활용해야한다.
 
